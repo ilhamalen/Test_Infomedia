@@ -1,0 +1,10 @@
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (1, 'K63', 'Other diseases of intestine');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (2, 'K04.7', 'Periapical abscess without sinus');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (3, 'O03.9', 'Spontaneous abortion, complete or unspecified, without complication');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (4, 'O02', 'Other abnormal products of conception');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (5, 'O20.0', 'Threatened abortion');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (6, 'O03.4', 'Spontaneous abortion, incomplete, without complication');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (7, 'N75.1', 'Abscess of Bartholin\'s gland');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (8, 'O03.0', 'Spontaneous abortion, incomplete, complicated by genital tract and pelvic infection');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (9, 'O07.0', 'Failed medical abortion, complicated by genital tract and pelvic infection');
+INSERT INTO `master_diagnosa`(`diagnosa_id`, `diagnosa_kode`, `diagnosa_name`) VALUES (10, 'J36', 'Peritonsillar abscess');
